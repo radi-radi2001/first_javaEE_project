@@ -12,7 +12,7 @@ import java.io.PrintWriter;
  */
 // HttpServlet provides different method for handling getting post requests
 public class SampServlet extends HttpServlet {
-	// make sure code is using the same version for different classes 
+	// make sure code is using the same version for different classes  l
 	private static final long serialVersionUID = 1L;
        
     /**
